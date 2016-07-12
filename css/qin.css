@@ -1,0 +1,7 @@
+.qinTable{
+	border-collapse: collapse;
+}
+
+.qinTable td{
+	border: solid #000 1px;
+}
